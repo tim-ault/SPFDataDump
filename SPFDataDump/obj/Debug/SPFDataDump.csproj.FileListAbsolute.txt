@@ -1,0 +1,7 @@
+C:\GitHub\SPFDataDump\SPFDataDump\bin\Debug\SPFDataDump.exe.config
+C:\GitHub\SPFDataDump\SPFDataDump\bin\Debug\SPFDataDump.exe
+C:\GitHub\SPFDataDump\SPFDataDump\bin\Debug\SPFDataDump.pdb
+C:\GitHub\SPFDataDump\SPFDataDump\bin\Debug\MySql.Data.dll
+C:\GitHub\SPFDataDump\SPFDataDump\obj\Debug\SPFDataDump.csprojResolveAssemblyReference.cache
+C:\GitHub\SPFDataDump\SPFDataDump\obj\Debug\SPFDataDump.exe
+C:\GitHub\SPFDataDump\SPFDataDump\obj\Debug\SPFDataDump.pdb
